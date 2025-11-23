@@ -21,12 +21,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/snapchat-unfollow-automation.git"
+    "url": "https://github.com/shrikant-tiwari/snapchat-unfollow-automation.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/snapchat-unfollow-automation/issues"
+    "url": "https://github.com/shrikant-tiwari/snapchat-unfollow-automation/issues"
   },
-  "homepage": "https://github.com/yourusername/snapchat-unfollow-automation#readme",
+  "homepage": "https://github.com/shrikant-tiwari/snapchat-unfollow-automation#readme",
   "devDependencies": {
     "appium": "^3.1.1",
     "appium-uiautomator2-driver": "^6.3.0",
