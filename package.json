@@ -1,0 +1,38 @@
+{
+  "name": "snapchat-unfollow-automation",
+  "version": "1.0.0",
+  "description": "Automate unfollowing accounts on Snapchat using Appium and WebDriverIO",
+  "main": "unfollow_script.js",
+  "scripts": {
+    "start": "node unfollow_script.js",
+    "inspect": "node inspect_ui.js",
+    "setup": "setup_android_env.bat"
+  },
+  "keywords": [
+    "snapchat",
+    "automation",
+    "appium",
+    "webdriverio",
+    "unfollow",
+    "android",
+    "social-media"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/snapchat-unfollow-automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/snapchat-unfollow-automation/issues"
+  },
+  "homepage": "https://github.com/yourusername/snapchat-unfollow-automation#readme",
+  "devDependencies": {
+    "appium": "^3.1.1",
+    "appium-uiautomator2-driver": "^6.3.0",
+    "webdriverio": "^9.20.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
